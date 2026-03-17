@@ -304,6 +304,7 @@ main() {
             echo "        bash ${script_dir}/analyze.sh -f \"$result_file\""
             echo "        bash ${script_dir}/analyze.sh -f \"$result_file\" --copy      # 复制到剪贴板"
             echo "        bash ${script_dir}/analyze.sh -f \"$result_file\" --call-ai   # 调用本地 AI 工具"
+            echo "        bash ${script_dir}/analyze.sh -f \"$result_file\" --compare other.txt  # 与另一台对比"
         fi
     else
         _warn "未找到结果文件 goecs.txt（测试可能未完整运行）"
