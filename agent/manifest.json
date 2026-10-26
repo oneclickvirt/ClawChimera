@@ -3,9 +3,9 @@
   "skill_name": "oneclickvirt-clawchimera",
   "mcp": true,
   "files": {
-    "agent/profile.json": "7fd8aeb3dc930e77e9cd4da9cf340440b541800a24b2f497e19e3b301cc58167",
-    "skills/oneclickvirt-clawchimera/SKILL.md": "68e7f6c3e96ed228e65899e6afcdca34448cb124f9e7bf32cc589419c88127d0",
-    "skills/oneclickvirt-clawchimera/SKILL_ZH.md": "1cc0b37fed6e0fc728869277a5d1a8ddb50d11dea027f29043e46607234885be",
-    "agent/server.py": "c54981973f8d98e6eada6e0442f3d7e5c9296947706c2c5d33b80b7f9a1c9b5b"
+    "agent/profile.json": "708384b5a60ac23f2c6e49f3ef65eb2d92d219ab5417a29cbf2683e5db3e3d4c",
+    "skills/oneclickvirt-clawchimera/SKILL.md": "84ff3cb2222674ea85319c54de42ce4656ec77825918aa7a37bb794da47900d5",
+    "skills/oneclickvirt-clawchimera/SKILL_ZH.md": "9c8416e45dbf1254f74141d57530d8df44d216c250b05dc920240a6dc29c9930",
+    "agent/server.py": "f4fe673f355a9b8ab06b4f8c1f90251e0ad79e1d9324ee4d62eff5e12ac45b74"
   }
 }
